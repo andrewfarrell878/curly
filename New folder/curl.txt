@@ -1,0 +1,14 @@
+< HTTP/1.1 302 Found
+< Content-Length: 157
+< Content-Type: text/html; charset=utf-8
+< Location: /Error/Missing?aspxerrorpath=/odetocode.
+< Server: Microsoft-IIS/10.0
+< X-Powered-By: ASP.NET
+< Date: Wed, 18 Sep 2019 08:30:26 GMT
+
+
+
+> GET /odetocode.jpg HTTP/1.1
+> Host: odetocode.com
+> User-Agent: curl/7.64.0
+> Accept: */*
